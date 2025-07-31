@@ -1,0 +1,21 @@
+{
+  "id": "anixl_web",
+  "name": "anixl_web",
+  "short_name": "Welcome to Anixl",
+  "description": "Enjoy your anime everywhere.",
+  "manifestURI": "https://anixl.to/manifest.json",
+  "version": "1.0.0",
+  "author": "YourName",
+  "type": "web-app",
+  "language": "javascript",
+  "lang": "en",
+  "payload": {
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "anixl_web",
+    "short_name": "Welcome to Anixl",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Enjoy your anime everywhere."
+  }
+}
